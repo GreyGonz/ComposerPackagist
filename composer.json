@@ -5,6 +5,9 @@
         "fzaninotto/faker": "^1.7",
         "laravel/framework": "^5.5"
     },
+    "autoload": {
+        "files": "src/Hello.php"
+    },
     "authors": [
         {
             "name": "GreyGonz",
